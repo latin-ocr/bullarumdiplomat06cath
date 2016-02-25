@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bullarumdiplomat06cath_0004.png"; bbox 0 0 2227 3001; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 580 1364 1652 1638">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 580 1364 1652 1638">
+     <span class='ocr_line' id='line_1_1' title="bbox 580 1364 1652 1437; baseline 0.002 -17"><span class='ocrx_word' id='word_1_1' title='bbox 580 1364 864 1437; x_wconf 63' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 894 1364 968 1437; x_wconf 81' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 993 1364 1095 1422; x_wconf 73' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 1128 1364 1377 1422; x_wconf 69' lang='lat' dir='ltr'>internet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1402 1364 1652 1422; x_wconf 73' lang='lat' dir='ltr'><strong>Archive</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 690 1465 1538 1538; baseline 0 -17"><span class='ocrx_word' id='word_1_6' title='bbox 690 1465 738 1521; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 769 1466 933 1523; x_wconf 79' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 960 1465 1089 1523; x_wconf 73' lang='lat' dir='ltr'><strong>with</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1118 1465 1364 1538; x_wconf 70' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1392 1465 1538 1523; x_wconf 77' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 770 1565 1461 1638; baseline 0 -15"><span class='ocrx_word' id='word_1_11' title='bbox 770 1565 1099 1638; x_wconf 78' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_12' title='bbox 1126 1565 1185 1623; x_wconf 79' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_13' title='bbox 1210 1565 1461 1623; x_wconf 77' lang='lat' dir='ltr'>Toronto</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 200 2761 2028 2834">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 200 2761 2028 2834">
+     <span class='ocr_line' id='line_1_4' title="bbox 200 2761 2028 2834; baseline 0.001 -17"><span class='ocrx_word' id='word_1_14' title='bbox 200 2761 2028 2834; x_wconf 67' lang='lat' dir='ltr'>http:llwwwfflchiveosqlcletailslbullarumdiplomatosscath</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
